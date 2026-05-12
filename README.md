@@ -21,8 +21,8 @@ I chose to be a cybersecurity professional because I simply believe that everyon
 
 <div align="center">
 
-| | Certification | Issuer | Earned | Expires |
-|:---:|---|:---:|:---:|:---:|
+| Certification | Issuer | Earned | Expires |
+|---|:---:|:---:|:---:|
  **CompTIA Security+** | CompTIA | Jul 2025 | Jul 2028 |
  **CompTIA CySA+** | CompTIA | Oct 2025 | Oct 2028 |
  **Security Analytics Professional (CSAP)** | CompTIA | Oct 2025 | Stackable ♾️ |
@@ -30,7 +30,7 @@ I chose to be a cybersecurity professional because I simply believe that everyon
 
 </div>
 
-My certifications and badges:
+### My certifications and badges:
 
 [CompTIA Security+](https://www.credly.com/badges/e4786f22-8205-4cc9-96d4-7861d6dc1028/public_url)
 [CompTIA CySA+](https://www.credly.com/badges/e9da5c23-8b0b-4d6c-8495-3202b1dd55d6/public_url)
