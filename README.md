@@ -32,7 +32,7 @@ I chose to be a cybersecurity professional because I simply believe that everyon
 
 My certifications and badges:
 
-[CompTIA Security+]:(https://www.credly.com/badges/e4786f22-8205-4cc9-96d4-7861d6dc1028/public_url)
+[CompTIA Security+](https://www.credly.com/badges/e4786f22-8205-4cc9-96d4-7861d6dc1028/public_url)
 [CompTIA CySA+](https://www.credly.com/badges/e9da5c23-8b0b-4d6c-8495-3202b1dd55d6/public_url)
 [CompTIA CSAP](https://www.credly.com/badges/04662226-dcd0-4c82-8031-9b9e9970c68d/public_url)
 [Splunk Core Certified]([https://www.credly.com/go/QMPu4sPR](https://www.credly.com/badges/74a12da3-0456-422f-8e1a-1f82bce97416/print))
