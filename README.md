@@ -13,29 +13,32 @@
 
 ## 👤 About Me
 
-I'm a cybersecurity professional driven by a genuine belief that everyone deserves privacy and digital security.
-I hold multiple CompTIA and Splunk certifications and I'm constantly pushing to level up — right now that means
-building hands-on cloud experience with AWS. I do this because I love it, and that shows in everything I build.
+I chose to be a cybersecurity professional because I simply believe that everyone deserves to be protected as it should be a standard. I always work my hardest so I am always working on evolving my knowledge with more certifications and badges under my belt. I'm constantly pushing to level up so I am hardcoding this website  from important information to little eye candy on the website. At the moment I am currently building hands-on cloud experience with AWS and I plan on taking my exam for my AWS soon! I don't only do this for show or employment, I do this because I love it, and that curiosity shows in everything I build.
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 <div align="center">
 
 | | Certification | Issuer | Earned | Expires |
 |:---:|---|:---:|:---:|:---:|
-| 🛡️ | **CompTIA Security+** | CompTIA | Jul 2025 | Jul 2028 |
-| 🔍 | **CompTIA CySA+** | CompTIA | Oct 2025 | Oct 2028 |
-| 📊 | **Security Analytics Professional (CSAP)** | CompTIA | Oct 2025 | Stackable ♾️ |
-| 📡 | **Splunk Core Certified User** | Splunk | Nov 2025 | Nov 2028 |
+ **CompTIA Security+** | CompTIA | Jul 2025 | Jul 2028 |
+ **CompTIA CySA+** | CompTIA | Oct 2025 | Oct 2028 |
+ **Security Analytics Professional (CSAP)** | CompTIA | Oct 2025 | Stackable ♾️ |
+ **Splunk Core Certified User** | Splunk | Nov 2025 | Nov 2028 |
 
 </div>
 
-### Verify my certifications:
-🔗 [CompTIA Security+](http://verify.CompTIA.org) · Code: `BN2SMYE5VJ1EYWB2`
-🔗 [CompTIA CySA+](http://verify.CompTIA.org) · Code: `S0H7ZJNSVN41KCB2`
-🔗 [Splunk Core Certified](https://www.credly.com/go/QMPu4sPR)
+My certifications and badges:
+
+[CompTIA Security+](https://www.credly.com/badges/e4786f22-8205-4cc9-96d4-7861d6dc1028/public_url)
+[CompTIA CySA+](https://www.credly.com/badges/e9da5c23-8b0b-4d6c-8495-3202b1dd55d6/public_url)
+[CompTIA CSAP](https://www.credly.com/badges/04662226-dcd0-4c82-8031-9b9e9970c68d/public_url)
+[Splunk Core Certified]([https://www.credly.com/go/QMPu4sPR](https://www.credly.com/badges/74a12da3-0456-422f-8e1a-1f82bce97416/print))
+[Endpoint Security](https://www.credly.com/badges/be9a12ab-111e-492f-be86-748b353b752d/public_url)
+[Networking Basics](https://www.credly.com/badges/19fe586a-9b8c-4d5b-ae26-07bc95b1456d/public_url)
+[AWS Knowledge: Amazon Connect Fundamentals - Training Badge](https://www.credly.com/earner/earned/badge/cc6771a9-dfec-42c0-99c4-72038e133e8b)
 
 ---
 
@@ -50,7 +53,7 @@ building hands-on cloud experience with AWS. I do this because I love it, and th
 
 ---
 
-## 🗂️ Projects
+## Projects
 
 > Projects are actively being built — check back soon or visit my [portfolio site](https://WagnerSDiaz.github.io) for updates.
 
@@ -68,7 +71,7 @@ HOW TO ADD A PROJECT — copy and paste this block:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
