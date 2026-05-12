@@ -35,7 +35,7 @@ I chose to be a cybersecurity professional because I simply believe that everyon
 [CompTIA Security+](https://www.credly.com/badges/e4786f22-8205-4cc9-96d4-7861d6dc1028/public_url) /
 [CompTIA CySA+](https://www.credly.com/badges/e9da5c23-8b0b-4d6c-8495-3202b1dd55d6/public_url) /
 [CompTIA CSAP](https://www.credly.com/badges/04662226-dcd0-4c82-8031-9b9e9970c68d/public_url) /
-[Splunk Core Certified]([https://www.credly.com/go/QMPu4sPR](https://www.credly.com/badges/74a12da3-0456-422f-8e1a-1f82bce97416/print) /
+[Splunk Core Certified](https://www.credly.com/badges/74a12da3-0456-422f-8e1a-1f82bce97416/print) /
 [Endpoint Security](https://www.credly.com/badges/be9a12ab-111e-492f-be86-748b353b752d/public_url) /
 [Networking Basics](https://www.credly.com/badges/19fe586a-9b8c-4d5b-ae26-07bc95b1456d/public_url) /
 [AWS Knowledge: Amazon Connect Fundamentals - Training Badge](https://www.credly.com/earner/earned/badge/cc6771a9-dfec-42c0-99c4-72038e133e8b)
