@@ -21,7 +21,7 @@ I chose to be a cybersecurity professional because I simply believe that everyon
 
 <div align="center">
 
-| | Certification | Issuer | Earned | Expires |
+| Certification | Issuer | Earned | Expires |
 |:---:|---|:---:|:---:|:---:|
  **CompTIA Security+** | CompTIA | Jul 2025 | Jul 2028 |
  **CompTIA CySA+** | CompTIA | Oct 2025 | Oct 2028 |
